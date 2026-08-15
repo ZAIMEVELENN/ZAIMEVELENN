@@ -3,7 +3,9 @@
   
   # 🏃Xiao Fong
 
-**I'm a university student, a junior developer and I like Americano with no sugar.**
+I'm a university student, a junior developer and I like Americano with no sugar, running and reading books.
+
+My favorite food is garlic fried rice and with that I made everything myself. Getting idea, planning, designing and cooking the project.
 
 ## Social
 <div class="social" align="center" > 
