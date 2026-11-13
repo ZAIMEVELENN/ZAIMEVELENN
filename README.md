@@ -38,6 +38,6 @@ My favorite food is garlic fried rice and with that I made everything myself. Ge
 <div class="toolusing" align="center" >
   
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
+![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
 </div>
 </div>
