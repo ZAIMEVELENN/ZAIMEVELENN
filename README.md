@@ -15,6 +15,10 @@ My favorite food is garlic fried rice and with that I made everything myself. Ge
 <a href="https://www.instagram.com/zaimevelenn/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
 </a>
+<a href="https://www.tiktok.com/@zaimevelenn">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+  
 </div>
 
 ## Languages Known
